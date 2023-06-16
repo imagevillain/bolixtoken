@@ -1,1 +1,3 @@
-# bolixtoken[bolixtocryptodotcom.csv](https://github.com/imagevillain/bolixtoken/files/11768941/bolixtocryptodotcom.csv)
+# bolix deployer to crypto dot com [bolixtocryptodotcom.csv]
+
+(https://github.com/imagevillain/bolixtoken/files/11768941/bolixtocryptodotcom.csv)
